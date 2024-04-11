@@ -1,6 +1,6 @@
 # The Boys landing page 
 
-<img src="./src/img/theBoysLP.png" alt="Preview" width="850" height="450">
+<img src=""C:\Users\Aluno\Pictures\Screenshots\theBoysLP.png"" alt="Preview" width="850" height="450">
 
  - Projeto construído durante o curso PROPROFISSÃO.
 
