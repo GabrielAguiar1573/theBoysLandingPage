@@ -16,4 +16,4 @@
 
 ## Contato
 
-gabrielhenriquedeaguiar@gmail.com# E-commerce landing page 
+gabrielhenriquedeaguiar@gmail.com
