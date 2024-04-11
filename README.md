@@ -1,6 +1,6 @@
 # The Boys landing page 
 
- ![preview](./.img/theBoysLP.png)
+![preview](./theBoysLP.png)
 
  - Projeto construído durante o curso PROPROFISSÃO.
 
